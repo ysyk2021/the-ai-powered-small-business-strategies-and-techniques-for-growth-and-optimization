@@ -1,5 +1,3 @@
-Chatbots and Virtual Assistants for Customer Service
-===============================================================================================
 
 Artificial Intelligence (AI) has been making waves in the business world, especially when it comes to marketing and sales. One of the most popular AI-powered tools used by businesses today is chatbots and virtual assistants for customer service.
 

@@ -1,5 +1,3 @@
-Types of AI Technology for Small Businesses
-======================================================================================================
 
 AI technology can provide small businesses with powerful tools for growth and optimization. In this chapter, we will explore different types of AI technology that are available for small businesses.
 

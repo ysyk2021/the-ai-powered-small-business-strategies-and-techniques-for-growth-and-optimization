@@ -1,5 +1,3 @@
-Automating Accounting and Bookkeeping Processes
-====================================================================================================
 
 AI technology can be used to improve financial management in small businesses by automating accounting and bookkeeping processes. In this chapter, we will explore how AI can be leveraged for financial management.
 

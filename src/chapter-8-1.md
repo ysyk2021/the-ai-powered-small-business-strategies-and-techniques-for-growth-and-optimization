@@ -1,5 +1,3 @@
-Emerging Trends in AI Technology for Small Businesses
-================================================================================================
 
 The future of small businesses is increasingly powered by Artificial Intelligence (AI). As the technology continues to evolve and improve, small businesses have more opportunities than ever before to leverage AI to drive growth and success.
 

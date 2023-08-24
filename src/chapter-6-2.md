@@ -1,5 +1,3 @@
-Using AI for Inventory Management and Demand Forecasting
-==================================================================================================
 
 Inventory management is a critical area for small businesses, with the potential to impact everything from cash flow to profitability. AI-powered tools can help small businesses optimize their inventory management by providing real-time insights and automating routine tasks.
 

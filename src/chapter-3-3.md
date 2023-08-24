@@ -1,5 +1,3 @@
-Managing the Transition to AI-Powered Operations
-=================================================================================================
 
 Implementing AI technology in a small business can be a complex process. In this chapter, we will explore how to manage the transition to AI-powered operations.
 

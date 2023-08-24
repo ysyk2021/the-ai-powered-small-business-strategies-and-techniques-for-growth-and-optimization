@@ -1,5 +1,3 @@
-The Future of AI-Powered Small Businesses
-==================================================
 
 Emerging Trends in AI Technology for Small Businesses
 -----------------------------------------------------

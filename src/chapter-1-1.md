@@ -1,5 +1,3 @@
-The Role of Technology in Small Business Growth
-=============================================================
 
 Technology has played an increasingly important role in the growth and success of small businesses. From cloud computing to mobile devices to Artificial Intelligence (AI), technology has provided small businesses with new tools for improving efficiency, reaching customers, and driving growth.
 

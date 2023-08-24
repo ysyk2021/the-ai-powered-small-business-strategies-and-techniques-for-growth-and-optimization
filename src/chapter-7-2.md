@@ -1,5 +1,3 @@
-Overcoming Resistance to AI Adoption
-=======================================================================================
 
 Resistance to AI adoption can be a significant barrier to implementing AI technology in small businesses. In this chapter, we will explore how to address resistance and overcome barriers to AI implementation.
 

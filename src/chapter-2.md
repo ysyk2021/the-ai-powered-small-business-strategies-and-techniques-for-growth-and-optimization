@@ -1,5 +1,3 @@
-Understanding AI Technology for Small Businesses
-================================================
 
 Artificial Intelligence (AI) can bring significant benefits to small businesses, but it's essential to understand the different types of AI technology and their applications. Here are some key areas to consider when evaluating AI technology for your small business.
 

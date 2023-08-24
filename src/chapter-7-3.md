@@ -1,5 +1,3 @@
-Mitigating the Risk of Over-Reliance on AI Tools
-===================================================================================================
 
 Over-reliance on AI tools can be a significant risk in small businesses. In this chapter, we will explore how to mitigate this risk and overcome barriers to AI implementation.
 

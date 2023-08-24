@@ -1,5 +1,3 @@
-Overcoming Barriers to AI Implementation
-=================================================
 
 Mitigating the Risk of Over-Reliance on AI Tools
 ------------------------------------------------
