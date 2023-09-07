@@ -10,3 +10,7 @@ We will examine emerging trends in AI technology for small businesses, such as a
 By embracing AI technology and following best practices for implementation and oversight, small businesses can harness its power to achieve long-term success in today's fast-paced business environment. We hope that this book provides valuable insights and strategies for leveraging AI technology to drive growth and optimization in small businesses.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
