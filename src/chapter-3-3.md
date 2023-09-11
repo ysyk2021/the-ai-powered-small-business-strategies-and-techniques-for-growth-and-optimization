@@ -1,5 +1,4 @@
-Chapter: Managing the Transition to AI-Powered Operations
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of transitioning small businesses to AI-powered operations. We will discuss the potential benefits, challenges, and strategies involved in successfully adopting and integrating AI technologies into business processes.
 

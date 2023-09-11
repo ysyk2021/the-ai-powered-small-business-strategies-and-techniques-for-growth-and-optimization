@@ -1,5 +1,4 @@
-Chapter: Optimizing Supply Chain Management with AI
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Supply chain management plays a crucial role in the success of small businesses. In this chapter, we explore how AI-powered technologies can optimize supply chain management, leading to improved efficiency, cost savings, and enhanced customer satisfaction.
 

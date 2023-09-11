@@ -1,5 +1,4 @@
-Chapter: Addressing Privacy and Security Concerns
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digital landscape, small businesses are increasingly leveraging AI technologies to drive growth and optimize their operations. However, with the power of AI comes the responsibility to address privacy and security concerns. This chapter explores the key considerations and strategies that small businesses should implement to ensure the privacy and security of their data when using AI.
 

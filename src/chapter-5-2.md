@@ -1,5 +1,4 @@
-Chapter: Automating Accounting and Bookkeeping Processes
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, small businesses are leveraging the power of AI and automation to streamline their operations and drive growth. One area where AI technologies can make a significant impact is in automating accounting and bookkeeping processes. This chapter explores the strategies and techniques that small businesses can implement to automate their accounting and bookkeeping tasks effectively.
 

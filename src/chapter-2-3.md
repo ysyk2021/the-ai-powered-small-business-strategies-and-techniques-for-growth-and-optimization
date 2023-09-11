@@ -1,5 +1,4 @@
-Chapter: Choosing the Right AI Tool for Your Needs
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving business landscape, artificial intelligence (AI) has become an essential tool for small businesses to drive growth and optimize operations. However, with numerous AI tools available, selecting the right one for your specific needs can be a daunting task. In this chapter, we will explore the key factors to consider when choosing an AI tool and provide a step-by-step guide to help you make an informed decision.
 

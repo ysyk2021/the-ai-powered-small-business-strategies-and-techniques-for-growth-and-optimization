@@ -1,5 +1,4 @@
-Chapter: Using AI for Fraud Detection and Risk Management
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Fraudulent activities pose significant risks to small businesses, leading to financial loss, damaged reputation, and operational disruptions. In this chapter, we explore how small businesses can leverage AI-powered technologies for fraud detection and risk management to safeguard their operations and assets.
 

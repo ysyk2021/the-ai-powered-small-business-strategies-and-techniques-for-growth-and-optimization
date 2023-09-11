@@ -1,5 +1,4 @@
-Chapter: Automating Routine Administrative Tasks
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Automation has become a transformative force for small businesses, enabling them to streamline operations and maximize efficiency. This chapter explores the strategies and techniques for automating routine administrative tasks using AI-powered technologies.
 
